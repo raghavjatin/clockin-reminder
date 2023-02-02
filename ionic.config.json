@@ -1,0 +1,7 @@
+{
+  "name": "clockin-reminder-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
